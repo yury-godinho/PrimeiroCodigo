@@ -1,0 +1,14 @@
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\bin\Debug\netcoreapp3.1\PrimeiroCodigo.exe
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\bin\Debug\netcoreapp3.1\PrimeiroCodigo.deps.json
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\bin\Debug\netcoreapp3.1\PrimeiroCodigo.runtimeconfig.json
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\bin\Debug\netcoreapp3.1\PrimeiroCodigo.runtimeconfig.dev.json
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\bin\Debug\netcoreapp3.1\PrimeiroCodigo.dll
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\bin\Debug\netcoreapp3.1\PrimeiroCodigo.pdb
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.csproj.AssemblyReference.cache
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.AssemblyInfoInputs.cache
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.AssemblyInfo.cs
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.dll
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.pdb
+C:\PESSOAL\DIO\.NET\PrimeiroCodigo\obj\Debug\netcoreapp3.1\PrimeiroCodigo.genruntimeconfig.cache
